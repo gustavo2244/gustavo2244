@@ -1,4 +1,4 @@
-## Oi! Eu sou Gustavo de Sousa Paiva
+## Oi! Eu sou Gustavo
  <div>
   <a href="https://github.com/gustavo2244">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavo2244&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
